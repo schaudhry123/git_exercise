@@ -1,5 +1,13 @@
 [
 	{
+		"name": "Samir Chaudhry",
+		"netid": "srchaud2",
+		"grade": "Freshman",
+		"major": "Computer Science",
+		"age": "18",
+		"github_handle": "schaudhry123"
+	},
+	{
 		"name": "Milan Dasgupta",
 		"netid": "mdasgup2",
 		"grade": "Senior",
